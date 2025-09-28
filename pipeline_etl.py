@@ -85,4 +85,11 @@ if __name__ == "__main__":
         
         # 3. Carga (L)
         cargar_datos_sqlite(data_frame_limpio, DB_FILE, TABLE_NAME)
+      # --- EXPORTAR A CSV para que sea visible en GitHub ---
+    csv_file = "clientes_limpios.csv"
+    try:
+        data_frame_limpio.to_csv(csv_file, index=False)
+        print(f"[INFO] Datos exportados a CSV: {csv_file}")
+    except Exception as e:
+        print(f"[ERROR] No se pudo exportar CSV: {e}")   
 ##eof

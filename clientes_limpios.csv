@@ -1,0 +1,6 @@
+ID,Nombre,Fecha_Nacimiento,Monto_Compra,Region,Email,Edad
+101,Juan Perez,1990-05-15,150.75,Norte,juanperez@mail.com,35
+103,Luis Rodriguez,1985-11-20,0.0,Norte,NO_PROVISTO,39
+104,Maria Fernandez,2001-02-28,95.2,Central,mariaf@mail.com,24
+105,Carlos Soto,1995-08-10,310.5,Sur,carloss@mail.com,30
+107,Sofia Castillo,2005-01-05,450.99,Norte,sofiac@mail.com,20
