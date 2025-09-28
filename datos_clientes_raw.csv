@@ -1,0 +1,8 @@
+ID,Nombre,Fecha_Nacimiento,Monto_Compra,Region,Email
+101,Juan Perez,1990-05-15,150.75,Norte,juanperez@mail.com
+102,Ana Gomez,,220.00,Sur,anagomez@mail.com
+103,Luis Rodriguez,1985-11-20,,Norte,
+104,Maria Fernandez,2001-02-28,95.20,Central,mariaf@mail.com
+105,Carlos Soto,1995-08-10,310.50,Sur,carloss@mail.com
+106,Elena Vidal,,12.00,Sur,elena@mail.com
+107,Sofia Castillo,2005-01-05,450.99,Norte,sofiac@mail.com
